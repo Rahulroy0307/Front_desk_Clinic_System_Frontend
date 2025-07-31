@@ -30,6 +30,26 @@ This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-appl
 
 ![login image](https://github.com/user-attachments/assets/056b7044-89d9-4b20-9ea3-00f60e816f64)
 
+### Create Account Page
+
+![create account image](https://github.com/user-attachments/assets/b0221c07-a12c-49e1-9b90-77b29e12e974)
+
+### Appointments Page 
+
+![appointments image](https://github.com/user-attachments/assets/95638f8b-2ab7-4ecb-9198-faeaae971a41)
+
+### Book Appointment Page
+
+![book appointments image](https://github.com/user-attachments/assets/923c467d-4098-484b-8b09-e1e9292a7f3f)
+
+### Doctor's Management Page
+
+![doctor's management image](https://github.com/user-attachments/assets/1911c7eb-ae9f-4dab-be63-91457b145e85)
+
+### Patients Queue Page
+
+![patient queue Image](https://github.com/user-attachments/assets/7e753cb6-6c45-4228-818f-da54ebdf6c1f)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
